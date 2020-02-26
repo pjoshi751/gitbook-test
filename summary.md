@@ -1,7 +1,7 @@
 # Summary
 
 ## ARCHITECTURE
-*  [Architecture](MOSIP_Architecture.md)
+*  [Architecture](MOSIP-Architecture.md)
 
 ## MODULES
 *  [Pre-Registration](Pre-Registration.md)
