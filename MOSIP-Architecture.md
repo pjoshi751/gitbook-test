@@ -11,7 +11,7 @@
 * Admin
 
 # Functional Architecture
-![](_images/arch_diagrams/MOSIP_functional_architecture.png)
+![](_images/MOSIP_functional_architecture.png)
 
 # Logical Architecture
 ![](_images/arch_diagrams/MOSIP_logical_architecture_v0.1.png)
