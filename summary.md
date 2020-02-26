@@ -1,10 +1,10 @@
 # Table of contents
 
-## ARCHITECTURE
+## Quick Links 
 
 * [Architecture](MOSIP-Architecture.md)
 
-## [MODULES](Architecture.md#Modules)
+* [Modules](MOSIP-Architecture.md#Modules)
 
 
 
