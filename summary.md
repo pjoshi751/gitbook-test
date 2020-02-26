@@ -4,10 +4,7 @@
 
 * [Architecture](MOSIP-Architecture.md)
 
-## MODULES
+## [MODULES](Architecture.md#Modules)
 
-*  [Pre-Registration](Pre-Registration.md)
-
-Pre-Registration-Functionality.md
 
 
