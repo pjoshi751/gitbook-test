@@ -2,7 +2,7 @@
 [Architecture Principles](MOSIP-Architecture-Principles)
 
 # Modules
-* [Pre-Registration](Pre-Registration)
+* [Pre-Registration](Pre-Registration.md)
 * Registration
 * Registration Processor
 * ID Authentication
