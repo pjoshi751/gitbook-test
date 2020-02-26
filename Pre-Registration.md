@@ -20,7 +20,7 @@ Refer to build instructions in [pre-registration repo](https://github.com/mosip/
 For deploying, refer [here](Build-and-Deploy#Deploy).
   
 # Pre-Registration APIs
-[Pre-Registration APIs](Pre-Registration-APIs)
+[Pre-Registration APIs](Pre-Registration-APIs.md)
 
 # Pre-Registration UI Reference Implementation
 MOSIP provides a reference implementation of pre-registration UI that may be customised as per country needs. The implementation is available in [ref impl repo](https://github.com/mosip/mosip-ref-impl).
