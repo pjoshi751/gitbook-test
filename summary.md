@@ -3,7 +3,7 @@
 ## Quick Links 
 
 * [Architecture](MOSIP-Architecture.md)
-* [Modules](Pre-Registration.md)
+* [Modules](Pre-Registration.md#Build)
 
 
 
