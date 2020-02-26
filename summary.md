@@ -4,7 +4,7 @@
 
 * [Architecture](MOSIP-Architecture.md)
 
-* [Modules](MOSIP-Architecture#Modules)
+* [Modules](MOSIP-Architecture.md#Modules)
 
 
 
