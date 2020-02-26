@@ -1,5 +1,5 @@
 # Architecture Principles
-[Architecture Principles](MOSIP-Architecture-Principles)
+[Architecture Principles](MOSIP-Architecture-Principles.md)
 
 # Top 
 ## Modules
