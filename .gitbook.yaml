@@ -5,5 +5,5 @@ structure:
     summary: ./summary.md
 
 redirects:
-    help: summary.md
+    help: ./summary.md
 
