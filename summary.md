@@ -3,7 +3,7 @@
 ## Quick Links 
 
 * [Architecture](MOSIP-Architecture.md)
-* [Modules](MOSIP-Architecture.md#modules) 
+* [Modules](MOSIP-Architecture.md#Modules) 
 
 ## All Pages
 * All
