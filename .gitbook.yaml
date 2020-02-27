@@ -5,4 +5,4 @@ structure:
     summary: ./summary.md
 
 redirects:
-    help: ./Pre-Registration.md
+    help: ./summary.md
