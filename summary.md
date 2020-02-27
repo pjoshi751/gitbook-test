@@ -3,7 +3,7 @@
 ## Quick Links 
 
 * [Architecture](MOSIP-Architecture.md)
-* [All files](./docs/*.md)
+* [All files](docs)
 
 
 
