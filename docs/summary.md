@@ -20,6 +20,35 @@
     * [EE](MOSIP-Architecture-Principles.md) 
     * [FF](Pre-Registration.md)	
 
+* APIs
+    * ABIS-APIs.md
+    * Admin-APIs.md
+    * 'AuthN-&-AuthZ-APIs.md'
+    * Biometric-APIs.md
+    * Biometric-Functions-API-Specification.md
+    * BlacklistedWords-APIs.md
+    * Common-APIs.md
+    * Device-APIs.md
+    * Device-Type-and-Subtype-APIs.md
+    * Document-APIs.md
+    * Holiday-APIs.md
+    * ID-Authentication-APIs.md
+    * ID-Repository-API.md
+    * Kernel-APIs.md
+    * Machine-APIs.md
+    * MOSIP-Biometric-APIs.md
+    * MOSIP-REST-API-guidelines.md
+    * Packet-APIs.md
+    * Partner-Management-Service-APIs.md
+    * Pre-Registration-APIs.md
+    * Registration-Center-APIs.md
+    * Registration-Processor-APIs.md
+    * Resident-Service-APIs.md
+    * Template-APIs.md
+    * Zone-APIs.md
+
+
+
 
 
 
