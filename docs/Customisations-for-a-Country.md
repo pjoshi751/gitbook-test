@@ -1,11 +1,13 @@
 MOSIP offers high configurability to customise and deploy for a country. Many components are available out of the box.  However, for a specific deployment certain customisations and additions may be needed as follows:
 
 1. ID Object
+
     1. [Definition](https://github.com/mosip/documentation/wiki/MOSIP-ID-Object-Definition)
     1. [Schema](https://github.com/mosip/mosip-config/blob/master/config-templates/mosip-identity-json-schema-env.json)
     1. Schema and field custom validations on Reg Client and Reg Processor. [(Ref validator)](https://github.com/mosip/mosip-ref-impl/tree/master/kernel/kernel-ref-idobjectvalidator)  
 
 1. Languages
+
    1. Defining primary and secondary languages
    1. Transliteration libraries integration in Reg Client
    1. Messaging templates (master data and configuration files)
@@ -13,6 +15,7 @@ MOSIP offers high configurability to customise and deploy for a country. Many co
 1. Master Data: Country specific master data 
 
 1. Adding/modifying Reg Processor flow 
+
    1. Adding a new stage (e.g. fetch data from CRVS system). [(Camel configurations)](https://github.com/mosip/mosip-config/blob/master/config-templates)
    1. Remove or re-arrange the stages 
    1. Demographic dedup logic
@@ -20,6 +23,7 @@ MOSIP offers high configurability to customise and deploy for a country. Many co
 1. [Configurations](https://github.com/mosip/mosip-config/blob/master/config-templates/)
 
 1. Registration Client App
+
    1. Fields as per ID Object
    1. Labels in preferred languages
    1. Field validations
@@ -31,6 +35,7 @@ MOSIP offers high configurability to customise and deploy for a country. Many co
 1. Admin portal: UI modifications (if needed) 
 
 1. Integration with external components
+
     1. Virus scanner 
     1. ABIS 
     1. Bio SDK (in Reg Client and Reg Proc)
