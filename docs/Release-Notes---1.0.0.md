@@ -24,7 +24,7 @@ Module-wise features released as part of this release can be found [here](https:
 ## Documentation [**[↑]**](#table-of-contents)
 ### 1. Platform Documentation 
 Includes Functional requirements, Process flows, Architecture and High level design, Getting started and Deployment guide, Developer documentation etc.  
-   [**Link to Platform Documentation**](Platform-Documentation)
+   [**Link to Platform Documentation**](Platform-Documentation.md)
 ### 2. Detailed Documentation
 [**Low Level design**](https://github.com/mosip/mosip-platform/tree/master/design) and [**Test cases**](https://github.com/mosip/mosip-functional-tests/wiki/_files/testing/Test_automation)
 ### 3. Platform Configurability for RBR    

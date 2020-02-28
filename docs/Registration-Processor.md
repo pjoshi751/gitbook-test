@@ -4,7 +4,7 @@ Registration Processor processes the data (demographic and biometric) of an Indi
 - Existing ID system(s) of a country
 
 # Detailed functionality
-[Registration Processor Functionality](Registration-Processor-Functionality)
+[Registration Processor Functionality](Registration-Processor-Functionality.md)
 
 # Process flow
 ![](_images/reg_processor/reg_processor_new_packet_flow.jpg)
@@ -49,5 +49,5 @@ For high level and low level design refer to [registration processor repo](https
 Refer to build and deploy instructions in [registration processor repo](https://github.com/mosip/registration/registration-processor).
 
 # APIs
-[Registration Processor APIs](Registration-Processor-APIs)
+[Registration Processor APIs](Registration-Processor-APIs.md)
 

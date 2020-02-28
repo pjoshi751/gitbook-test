@@ -15,7 +15,7 @@ Any entity wishing to provide service to an Individual can make an authenticatio
  - MOSIP should verify the integrity of the message sent to avoid man-in-the-middle attacks
 
 ### Capture of biometrics data must be in a standard way
-An entity that captures data from a biometric device must conform to standards to ensure interoperability. Please refer to the [**link**](MOSIP-Biometric-Data-Specifications) for the standards
+An entity that captures data from a biometric device must conform to standards to ensure interoperability. Please refer to the [**link**](MOSIP-Biometric-Data-Specifications.md) for the standards
 
 
 ### Authenticate an Individual based on his basic identity data captured via MOSIP

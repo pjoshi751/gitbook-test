@@ -22,7 +22,7 @@ This release is with **proxy biometrics**. This means that the implementation of
 ## Documentation [**[↑]**](#table-of-content)
 ### 1. Platform Documentation 
 Includes Functional requirements, Process flows, Architecture and High level design, Getting started and Deployment guide, Developer documentation etc.  
-   [**Link to Platform Documentation**](Platform-Documentation)
+   [**Link to Platform Documentation**](Platform-Documentation.md)
 ### 2. Detailed Documentation
 [**Low Level design**](/mosip/mosip/tree/0.12.0/docs/design) and [**Test cases excel**](/mosip/mosip/blob/master/docs/testing/Test%20automation/MOSIP-TCs-V1.0xlsx.xlsx)
 

@@ -56,7 +56,7 @@ Registration Client application captures the demographic and biometric details o
 1. Client has the ability to update itself for patch upgrades (bug fixes/enhancements) in a remote way. There could be hundreds of client instances running on laptops/desktops. Updates on all of them are controlled by the client and a central server.
 1. Registration client is secured such that it cannot be tampered with or misused
 
-[Detailed functional specifications of registration services](FRS-Registration-Services)
+[Detailed functional specifications of registration services](FRS-Registration-Services.md)
 
 
 ### 2.3 Registration Processor
@@ -89,17 +89,17 @@ This module provides the following capabilities:
 1. Protects an Individual's identity from request-replay attacks
 1. Audited for reporting and fraud management checks
 
-[Detailed functional requirement specifications for authentication services](FRS-Authentication-Services)
+[Detailed functional requirement specifications for authentication services](FRS-Authentication-Services.md)
 
 ### 2.5 Kernel
 Kernel is a platform to build higher-level services as well as a secure sandbox. Functionally it caters to the following services:
 * [UIN Generation](UIN-Generation)
 * [Configuration Server](Configuration-Server)
-* [Audit Manager](Audit-Manager)
+* [Audit Manager](Audit-Manager.md)
   * [Log manager](Audit-Manager#log-manager)
-* [Authentication and Authorization](Authentication-and-Authorization)
-* [Common Services](FRS-Common-Services)
-* [Data Services](FRS-Data-Services)
+* [Authentication and Authorization](Authentication-and-Authorization.md)
+* [Common Services](FRS-Common-Services.md)
+* [Data Services](FRS-Data-Services.md)
 * [Admin Services](FRS-Admin-Services)
 
 ### 2.6 Admin Portal and Administrator Services (WIP)
@@ -117,7 +117,7 @@ These administrative activities are:
  * Activate/deactivate UIN
  * View status of packets
 
-[Detailed functional specifications of administrator services module](FRS-Administrator-Services) 
+[Detailed functional specifications of administrator services module](FRS-Administrator-Services.md) 
 <!--- 
 ### 2.7 Resident Services (WIP)
 
@@ -138,7 +138,7 @@ These services include:
 1. Retrieve Lost RID (registration ID).
 2. Track Status of UIN Generation via RID.
 
-[Detailed functional specifications of resident services module](FRS-Resident-Services)
+[Detailed functional specifications of resident services module](FRS-Resident-Services.md)
 ### 2.8 Partner Management (WIP)
 
 Partner Management provides services for Partner and MISP (MOSIP Infrastructure Service Provider) Registration and Authentication. Only Registered Partners and MISP are allowed to access MOSIP Authentication services. Partners and MISP are registered using Partner Management Services.  Authentication services of MOSIP will internally use the Partner Management Services to authenticate Partner and MISP and validate if only the registered entities are accessing the services.
@@ -149,46 +149,46 @@ Partners send authentication request and receive authentication responses in a s
 
 Further Certificates are used by Partners for signing the authentication request. Partner Management Services is used for a few of the signature related services.
 
-[Detailed functional specifications of Partner Management module](FRS-Partner-Management)
+[Detailed functional specifications of Partner Management module](FRS-Partner-Management.md)
 --->
 
 ### 2.9 ID Repository
-[Detailed functional specifications of ID Repository](FRS-ID-Repository) 
+[Detailed functional specifications of ID Repository](FRS-ID-Repository.md) 
 
 ## 3. ARCHITECTURE OVERVIEW[**[↑]**](#table-of-contents)
 
 ### 3.1 [Architectural Principles and Platform Goals](Architecture-Principles-&-Platform-Goals) 
 ### 3.2 [Logical Architecture](Logical-Architecture) 
-### 3.3 [Technology Stack](Technology-Stack)
-### 3.4 [Data Architecture](MOSIP-Data-Architecture)
+### 3.3 [Technology Stack](Technology-Stack.md)
+### 3.4 [Data Architecture](MOSIP-Data-Architecture.md)
 ### 3.5 High Level Design
-#### 3.5.1 [Pre-Registration](Pre-Registration)
-#### 3.5.2 [Kernel](Kernel)
-#### 3.5.3 [Registration Services](Registration-Client)
-#### 3.5.4 [Registration Processor](Registration-Processor)
-#### 3.5.5 [Authentication Services](ID-Authentication)
-<!---  #### 3.5.6 [Resident Services](Resident-services) --->
-#### 3.5.7 [Administrator Services](Admin)
-#### 3.5.8 [ID Repository](ID-Repository)
+#### 3.5.1 [Pre-Registration](Pre-Registration.md)
+#### 3.5.2 [Kernel](Kernel.md)
+#### 3.5.3 [Registration Services](Registration-Client.md)
+#### 3.5.4 [Registration Processor](Registration-Processor.md)
+#### 3.5.5 [Authentication Services](ID-Authentication.md)
+<!---  #### 3.5.6 [Resident Services](Resident-services.md) --->
+#### 3.5.7 [Administrator Services](Admin.md)
+#### 3.5.8 [ID Repository](ID-Repository.md)
 ### 3.6 [Deployment Architecture](Deployment)
 
 ## 4. REQUIREMENT SPECIFICATIONS[**[↑]**](#table-of-contents)
 ### 4.1 Functional Requirement Specifications
 #### 4.1.1 [Pre-Registration](FRS-Pre-Registration)
-#### 4.1.2 [Data Services](FRS-Data-Services)
-#### 4.1.3 [Common Services](FRS-Common-Services)
+#### 4.1.2 [Data Services](FRS-Data-Services.md)
+#### 4.1.3 [Common Services](FRS-Common-Services.md)
 #### 4.1.4 [Admin Services](FRS-Admin-Services)
 #### 4.1.5 [UIN Generation](UIN-Generation)
 #### 4.1.6 [Configuration Server](Configuration-Server)
-#### 4.1.7 [Audit Manager](Audit-Manager)
-#### 4.1.8 [Authentication and Authorization](Authentication-and-Authorization)
-#### 4.1.9 [Registration Services](FRS-Registration-Services)
+#### 4.1.7 [Audit Manager](Audit-Manager.md)
+#### 4.1.8 [Authentication and Authorization](Authentication-and-Authorization.md)
+#### 4.1.9 [Registration Services](FRS-Registration-Services.md)
 #### 4.1.10 [Registration Processor](FRS-Registration-Processor)
-#### 4.1.11 [Authentication Services](FRS-Authentication-Services)
-<!---! #### 4.1.12 [Resident Services](FRS-Resident-Services) --->
-#### 4.1.13 [Administrator Services](FRS-Administrator-Services)
-<!--- #### 4.1.14 [Partner Management](FRS-Partner-Management)--->
-#### 4.1.15 [ID Repository](FRS-ID-Repository)
+#### 4.1.11 [Authentication Services](FRS-Authentication-Services.md)
+<!---! #### 4.1.12 [Resident Services](FRS-Resident-Services.md) --->
+#### 4.1.13 [Administrator Services](FRS-Administrator-Services.md)
+<!--- #### 4.1.14 [Partner Management](FRS-Partner-Management.md)--->
+#### 4.1.15 [ID Repository](FRS-ID-Repository.md)
 
 ### 4.2 [Non-Functional Requirement Specifications](Non-Functional-Requirements)
 
@@ -209,7 +209,7 @@ This section details:
 ### 5.3 Registration Packet Structure
 This section illustrates the packet creation flow along with the encryption process, as part of Registration Client.
 
-[More details on Registration Packet](Registration-Packet)
+[More details on Registration Packet](Registration-Packet.md)
 
 ### 5.4 ABIS Middleware
 This section provides details on the ability of MOSIP to support a single or multi-ABIS solution, specifics on the Components & APIs of ABIS Middleware, Strategies for Biometric data management in ABIS and Strategies for de-duplication in case of multiple ABIS systems.
@@ -218,7 +218,7 @@ This section provides details on the ability of MOSIP to support a single or mul
 ### 5.5 Biometric Data Standards
 This section details out the specifications for Biometric data during data acquisition and verification. 
 
-[More details on Biometric Data Specifications](MOSIP-Biometric-Data-Specifications)
+[More details on Biometric Data Specifications](MOSIP-Biometric-Data-Specifications.md)
 
 ### 5.6 MOSIP Device Specification
 This section illustrates the VDM technical specifications to be adhered by a vendor, who intends to adopt their devices to the MOSIP platform, so as to capture the biometric data and process the same. 
@@ -228,7 +228,7 @@ This section illustrates the VDM technical specifications to be adhered by a ven
 ### 5.7 Core Data Management
 ID Repository module contains the golden record of Identity for an Individual. Once new/update packets are processed by Registration Processor, the Identity details of an Individual are added/updated in ID Repository. The Identity information available in ID Repository is then used by ID Authentication to authenticate an Individual.
 
-This module exposes few REST APIs which can be used to create/update/retrieve identity of an individual. Please refer to the [ID Repository API](ID-Repository-API) for more details.
+This module exposes few REST APIs which can be used to create/update/retrieve identity of an individual. Please refer to the [ID Repository API](ID-Repository-API.md) for more details.
 
 ### 5.8 Integration with External Systems
 [This section](/mosip/mosip-platform/wiki/Registration-Processor-External_System_Integration_Guide) illustrates the integration specifications of MOSIP with an external system.
@@ -236,30 +236,30 @@ This module exposes few REST APIs which can be used to create/update/retrieve id
 ## 6. MOSIP APIs[**[↑]**](#table-of-contents)
 ### 6.1	External APIs
 
-* [Pre-Registration APIs](Pre-Registration-APIs)
-* [Registration Processor APIs](Registration-Processor-APIs)
-* [ID Authentication APIs](ID-Authentication-APIs).
-* [ABIS APIs](ABIS-APIs).
-* [Biometric APIs](MOSIP-Biometric-APIs)
+* [Pre-Registration APIs](Pre-Registration-APIs.md)
+* [Registration Processor APIs](Registration-Processor-APIs.md)
+* [ID Authentication APIs](ID-Authentication-APIs.md).
+* [ABIS APIs](ABIS-APIs.md).
+* [Biometric APIs](MOSIP-Biometric-APIs.md)
 * [OTP Manager API](Kernel-APIs#otp-manager-private)
 
 ### 6.2	Internal APIs
-* [Kernel APIs](Kernel-APIs)
-* [ID Repository API](ID-Repository-API)
-* [Admin APIs](Admin-APIs)
+* [Kernel APIs](Kernel-APIs.md)
+* [ID Repository API](ID-Repository-API.md)
+* [Admin APIs](Admin-APIs.md)
 * [AuthN & AuthZ APIs](AuthN-&-AuthZ-APIs)
 * Master Data APIs
-    1. [Internal Biometric APIs](Biometric-APIs)
-    1. [Document APIs](Document-APIs)
-    1. [Device APIs](Device-APIs)
-    1. [Machine APIs](Machine-APIs)
-    1. [Packet APIs](Packet-APIs)
-    1. [Template APIs](Template-APIs)
-    1. [Common APIs](Common-APIs)
-    1. [Registration Center APIs](Registration-Center-APIs)
+    1. [Internal Biometric APIs](Biometric-APIs.md)
+    1. [Document APIs](Document-APIs.md)
+    1. [Device APIs](Device-APIs.md)
+    1. [Machine APIs](Machine-APIs.md)
+    1. [Packet APIs](Packet-APIs.md)
+    1. [Template APIs](Template-APIs.md)
+    1. [Common APIs](Common-APIs.md)
+    1. [Registration Center APIs](Registration-Center-APIs.md)
 
 ## 7. PRIVACY AND SECURITY[**[↑]**](#table-of-contents)
-Multiple aspects of Security like Confidentiality, Privacy, and Integrity of data are key in ensuring an Individual's identity is not compromised. This section illuminates on the [privacy and security](Privacy-and-Security) design principles MOSIP follows. Please also take a look at [Security Tools](Security-Tools) to know more about the tools used for security testing.
+Multiple aspects of Security like Confidentiality, Privacy, and Integrity of data are key in ensuring an Individual's identity is not compromised. This section illuminates on the [privacy and security](Privacy-and-Security.md) design principles MOSIP follows. Please also take a look at [Security Tools](Security-Tools.md) to know more about the tools used for security testing.
 
 ## 8. CONTRIBUTING[**[↑]**](#table-of-contents)
 To get started on contributing to MOSIP, read our [Contributor Guide](contributor-guide) and our [Code of Conduct](code-of-conduct)
@@ -271,9 +271,9 @@ To get started on contributing to MOSIP, read our [Contributor Guide](contributo
 
 Useful information for the tester community. [Tester Documentation](tester-documentation)
 
-Test Rig represents a one click automation to build, deploy and test a software module. Successful execution of test rig would ascertain complete setup of the MOSIP platform. More details on [Test Rig Design](Test-Rig-Design).
+Test Rig represents a one click automation to build, deploy and test a software module. Successful execution of test rig would ascertain complete setup of the MOSIP platform. More details on [Test Rig Design](Test-Rig-Design.md).
 
-More details on [Test Automation](Tester-Documentation)
+More details on [Test Automation](Tester-Documentation.md)
 
 ### 9.3 [Developer Documentation](Developer-Documentation)
 ### 9.4 [Customization (WIP)]

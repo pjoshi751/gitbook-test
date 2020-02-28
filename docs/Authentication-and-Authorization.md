@@ -23,4 +23,4 @@ MOSIP system can handle Authorization across core services and restricts access 
    [**Link to Kernel Application Properties**](/mosip/mosip-config-mt/blob/master/config-templates/kernel-env.properties)
 
 ### Kernel API 
-[**Refer to Wiki for more details on Kernel API**](Kernel-APIs)
+[**Refer to Wiki for more details on Kernel API**](Kernel-APIs.md)

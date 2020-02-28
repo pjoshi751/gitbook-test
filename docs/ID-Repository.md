@@ -13,7 +13,7 @@ ID Repository APIs must be accessed only by MOSIP modules internally, and must n
 
 
 ### Ensure captured biometrics data must be in a standard way
-Biometrics stored or updated in ID Repository must conform to standards to ensure interoperability. Please refer to the [Biometric-Data-Specifications](MOSIP-Biometric-Data-Specifications) for the standards.
+Biometrics stored or updated in ID Repository must conform to standards to ensure interoperability. Please refer to the [Biometric-Data-Specifications](MOSIP-Biometric-Data-Specifications.md) for the standards.
 
 
 ### Ensure captured Identity must be in format defined in MOSIP ID Schema
