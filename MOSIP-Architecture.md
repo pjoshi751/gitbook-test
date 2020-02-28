@@ -10,6 +10,12 @@
 * Partner Management
 * Admin
 
+# Test Table
+col1|col2|col3
+---|---|---
+r11|r12|r13
+r21|r22|r23
+
 # Functional Architecture
 ![](_images/MOSIP_functional_architecture.png) 
 
