@@ -1,6 +1,6 @@
 # Table of contents
 
-## Quick Links 
+## QUICK LINKS
 
 * [Architecture](MOSIP-Architecture.md)
 * Modules
@@ -14,7 +14,7 @@
 * [Privacy & Security](Privacy-and-Security.md)
 * [MDS](MOSIP-Device-Service-Specification.md) 
 * [Build & Deploy](Build-and-Deploy.md)
-* [Contribute](Contributor-Guide.md) 
+* [Contribute](Contributor-Guide.md)
 * APIs
     * [ABIS APIs](ABIS-APIs.md)
     * [Admin APIs](Admin-APIs.md)
@@ -42,7 +42,7 @@
     * [Template APIs](Template-APIs.md)
     * [Zone APIs](Zone-APIs.md)
 
-# All Pages 
+## ALL PAGES
 * All
     * [ABIS APIs](ABIS-APIs.md)
     * [Admin APIs](Admin-APIs.md)
