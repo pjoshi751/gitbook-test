@@ -11,7 +11,7 @@
     * [Partner Managment](Partner-Management.md)
     * [Admin](Admin.md)
 
-* [ABIS](Automated-Biometric-Identification-System-\(ABIS\).md)
+* [ABIS](Automated-Biometric-Identification-System-ABIS.md)
 * [Privacy & Security](Privacy-and-Security.md)
 * [MDS](MOSIP-Device-Service-Specification.md) 
 * [Build & Deploy](Build-and-Deploy.md)
@@ -19,7 +19,7 @@
 * APIs
     * [](ABIS-APIs.md)
     * [](Admin-APIs.md)
-    * []('AuthN-&-AuthZ-APIs.md')
+    * [](AuthN-and-AuthZ-APIs.md)
     * [](Biometric-APIs.md)
     * [](Biometric-Functions-API-Specification.md)
     * [](BlacklistedWords-APIs.md)
@@ -55,9 +55,9 @@
     * [](Auth-Angular-User-Guide.md)
     * [](Authentication-and-Authorization.md)
     * [](Auth-Implementation.md)
-    * []('AuthN-&-AuthZ-APIs.md')
+    * [](AuthN-and-AuthZ-APIs.md)
     * [](Auth-SpringBoot-User-Guide.md)
-    * []('Automated-Biometric-Identification-System-(ABIS).md')
+    * [](Automated-Biometric-Identification-System-ABIS.md)
     * [](Biometric-APIs.md)
     * [](Biometric-Functions-API-Specification.md)
     * [](BlacklistedWords-APIs.md)
@@ -87,11 +87,11 @@
     * [](FRS-PMS.md)
     * [](FRS-Registration-Services.md)
     * [](FRS-Resident-Services.md)
-    * []('Functional-Requirement-Specification-(FRS).md')
+    * [](Functional-Requirement-Specification-FRS.md)
     * [](Github-Workflow.md)
     * [](Guidelines-for-Adding-Centers,-Machine,-User-and-Devices.md)
     * [](Guide-to-configure-MOSIP-for-Real-Biometrics.md)
-    * []('Hardware-Security-Module-(HSM)-Specifications.md')
+    * [](Hardware-Security-Module-HSM-Specifications.md)
     * [](Hardware-Sizing.md)
     * [](Holiday-APIs.md)
     * [](Home.md)
@@ -166,11 +166,3 @@
     * [](UIN-and-VID-Generation-Service.md)
     * [](VID-Generator.md)
     * [](Zone-APIs.md)
-
-
-
-
-
-
-
-
