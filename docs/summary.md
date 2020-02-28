@@ -5,8 +5,8 @@
 * [Architecture](MOSIP-Architecture.md)
 * Modules
     * [Pre-Registration](Pre-Registration.md)
-    * [Registartion Processor](Registration-Processor.md)
-    * [ID-Authentication](ID-Authentication.md)
+    * [Registration Processor](Registration-Processor.md)
+    * [ID Authentication](ID-Authentication.md)
     * [Resident Services](Resident-services.md)
     * [Partner Managment](Partner-Management.md)
     * [Admin](Admin.md)
