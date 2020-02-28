@@ -7,7 +7,7 @@
 * [Registration](Registration-Client.md)
 * [Registration Processor](Registration-Processor.md)
 * [ID Authentication](ID-Authentication.md)
-* [Resident Services](Resident-Services)
+* [Resident Services](Resident-Services.md)
 * [Partner Management](Partner-Management.md)
 * [Admin](Admin.md)
 
