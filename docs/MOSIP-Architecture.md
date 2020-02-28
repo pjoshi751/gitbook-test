@@ -2,6 +2,7 @@
 [Architecture Principles](MOSIP-Architecture-Principles.md)
 
 # Modules
+
 * [Pre-Registration](Pre-Registration.md)
 * [Registration](Registration-Client.md)
 * [Registration Processor](Registration-Processor.md)
@@ -17,6 +18,7 @@
 ![](_images/arch_diagrams/MOSIP_logical_architecture_v0.1.png)
 
 # Data Architecture
+
 [MOSIP Data Architecture](https://github.com/mosip/documentation/wiki/MOSIP-Data-Architecture.md)
 
 # Design choices
