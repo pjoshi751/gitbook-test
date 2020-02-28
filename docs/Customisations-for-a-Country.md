@@ -1,4 +1,5 @@
 MOSIP offers high configurability to customise and deploy for a country. Many components are available out of the box.  However, for a specific deployment certain customisations and additions may be needed as follows:
+
 1. ID Object
     1. [Definition](https://github.com/mosip/documentation/wiki/MOSIP-ID-Object-Definition)
     1. [Schema](https://github.com/mosip/mosip-config/blob/master/config-templates/mosip-identity-json-schema-env.json)
