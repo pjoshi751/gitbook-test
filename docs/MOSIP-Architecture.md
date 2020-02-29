@@ -3,13 +3,13 @@
 
 # Modules
 
-*  [Pre-Registration](Pre-Registration.md)
-*  [Registration Processor](Registration-Processor.md)
-*  [Registration](Registration-Client.md)
-*  [ID Authentication](ID-Authentication.md)
-*  [Resident Services](Resident-Services.md)
-*  [Partner Management](Partner-Management.md)
-*  [Admin](Admin.md)
+    *  [Pre-Registration](Pre-Registration.md)
+    *  [Registration Processor](Registration-Processor.md)
+    *  [Registration](Registration-Client.md)
+    *  [ID Authentication](ID-Authentication.md)
+    *  [Resident Services](Resident-Services.md)
+    *  [Partner Management](Partner-Management.md)
+    *  [Admin](Admin.md)
 
 # Functional Architecture
 ![](_images/arch_diagrams/MOSIP_functional_architecture.png)
