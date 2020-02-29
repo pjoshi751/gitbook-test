@@ -4,8 +4,8 @@
 # Modules
 
 *  [Pre-Registration](Pre-Registration.md)
-*  [Registration](Registration-Client.md)
 *  [Registration Processor](Registration-Processor.md)
+*  [Registration](Registration-Client.md)
 *  [ID Authentication](ID-Authentication.md)
 *  [Resident Services](Resident-Services.md)
 *  [Partner Management](Partner-Management.md)
