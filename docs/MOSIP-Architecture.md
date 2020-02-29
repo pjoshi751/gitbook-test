@@ -19,7 +19,7 @@
 
 # Data Architecture
 
-[MOSIP Data Architecture](https://github.com/mosip/documentation/wiki/MOSIP-Data-Architecture.md)
+[MOSIP Data Architecture](MOSIP-Data-Architecture.md)
 
 # Design choices
 * Microservice based architecture for all platform services for modularity and scalability.
