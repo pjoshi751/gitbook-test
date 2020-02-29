@@ -32,7 +32,7 @@ Code | Reason
 
 All the below operations send biometric data in CBEFF format. (Please refer to the [**link**](MOSIP-Biometric-Data-Specifications#cbeff-xml) for sample cbeff data)
 ### INSERT (insert biometric data of an Individual)
-```
+```json
 //Request
 {
     "id" : "mosip.abis.insert",
