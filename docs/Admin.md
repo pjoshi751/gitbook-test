@@ -46,3 +46,16 @@ Every data insert or modifications have to be properly validated via the validat
 ## Flow view
 
 ![Flow Diagram](_images/arch_diagrams/MOSIP_Admin_Flow.jpg)
+
+# APIs
+
+APIs from multiple services are used for Admin as follows:
+* [Admin APIs](Admin-APIs.md)  
+* [Document APIs](Document-APIs.md)
+* [Register Center APIs](Registration-Center-APIs.md)
+* [Device APIs](Device-APIs.md)
+* [Machine APIs](Machine-APIs.md)
+* [Common APIs](Common-APIs.md)
+* [Zone APIs](Zone-APIs.md)
+* [Device Management APIs](Device-Management-APIs.md)
+
