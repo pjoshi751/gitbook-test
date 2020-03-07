@@ -51,11 +51,18 @@ Every data insert or modifications have to be properly validated via the validat
 
 APIs from multiple services are used for Admin as follows:
 * [doc1](Admin-APIs.md)  
+
 * [doc2](Document-APIs.md)
+
 * [doc3](Registration-Center-APIs.md)
+
 * [doc4](Device-APIs.md)
+
 * [doc5](Machine-APIs.md)
+
 * [doc6](Common-APIs.md)
+
 * [doc7](Zone-APIs.md)
+
 * [doc8](Device-Management-APIs.md)
 
