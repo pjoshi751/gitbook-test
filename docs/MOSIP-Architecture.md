@@ -1,14 +1,20 @@
 # Architecture Principles
 [Architecture Principles](MOSIP-Architecture-Principles.md)
 
-# Modules3
+# Modules4
 
 * [doc1](Pre-Registration.md)
+
 * [doc2](Registration-Processor.md)
+
 * [doc3](Registration-Client.md)
+
 * [doc4](ID-Authentication.md)
+
 * [doc5](Resident-Services.md)
+
 * [doc5](Partner-Management.md)
+
 * [doc7](Admin.md)
 
 # Functional Architecture
