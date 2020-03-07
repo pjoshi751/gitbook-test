@@ -5,17 +5,31 @@
 
 * [doc1](Pre-Registration.md)
 
+Text
+
 * [doc2](Registration-Processor.md)
+
+Text
 
 * [doc3](Registration-Client.md)
 
+Text
+
 * [doc4](ID-Authentication.md)
+
+Text
 
 * [doc5](Resident-Services.md)
 
+Text
+
 * [doc5](Partner-Management.md)
 
+Text
+
 * [doc7](Admin.md)
+
+Text
 
 # Functional Architecture
 ![](_images/arch_diagrams/MOSIP_functional_architecture.png)
