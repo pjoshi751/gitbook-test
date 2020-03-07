@@ -1,14 +1,15 @@
 # Architecture Principles
 [Architecture Principles](MOSIP-Architecture-Principles.md)
 
-# Modules2
-* [Pre-Registration](Pre-Registration.md)
-* [Registration Processor](Registration-Processor.md)
-* [Registration](Registration-Client.md)
-* [ID Authentication](ID-Authentication.md)
-* [Resident Services](Resident-Services.md)
-* [Partner Management](Partner-Management.md)
-* [Admin](Admin.md)
+# Modules3
+
+* [doc1](Pre-Registration.md)
+* [doc2](Registration-Processor.md)
+* [doc3](Registration-Client.md)
+* [doc4](ID-Authentication.md)
+* [doc5](Resident-Services.md)
+* [doc5](Partner-Management.md)
+* [doc7](Admin.md)
 
 # Functional Architecture
 ![](_images/arch_diagrams/MOSIP_functional_architecture.png)
