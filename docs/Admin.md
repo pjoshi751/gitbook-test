@@ -50,35 +50,13 @@ Every data insert or modifications have to be properly validated via the validat
 # APIs
 
 APIs from multiple services are used for Admin as follows:
-* [doc1](Admin-APIs.md)  
-
-Text 
-
-* [doc2](Document-APIs.md)
-
-Text 
-
-* [doc3](Registration-Center-APIs.md)
-
-Text 
-
+* [doc1](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
+* [doc2](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
+* [doc3](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
 * [doc4](Device-APIs.md)
-
-Text 
-
 * [doc5](Machine-APIs.md)
-
-Text 
-
 * [doc6](Common-APIs.md)
-
-Text
-
 * [doc7](Zone-APIs.md)
-
-Text
-
 * [doc8](Device-Management-APIs.md)
 
-Text
 
