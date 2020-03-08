@@ -51,8 +51,6 @@ Every data insert or modifications have to be properly validated via the validat
 
 APIs from multiple services are used for Admin as follows:
 * [doc1](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
-* [doc2](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
-* [doc3](https://github.com/pjoshi751/gitbook-test/blob/master/docs/Admin.md)
 * [doc4](Device-APIs.md)
 * [doc5](Machine-APIs.md)
 * [doc6](Common-APIs.md)
