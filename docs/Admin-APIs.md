@@ -1,36 +1,36 @@
-* [PacketStatus Services](#packet-status-services)
-
 # Packet Status Services
 
 * [GET /packetstatusupdate](#get-packetstatusupdate)
 
-### GET /packetstatusupdate
+## GET /packetstatusupdate
 
 The user can get status of the uin
 
-#### Resource URL
-<div>https://mosip.io/v1/admin/packetstatusupdate?rid={rid}</div>
-
-#### Resource details
+### Resource URL
+```
+https://mosip.io/v1/admin/packetstatusupdate?rid={rid}
+```
+### Resource details
 Resource Details | Description
 ------------ | -------------
 Response format | JSON
 Requires Authentication | Yes
 
-#### Request Part Parameters
+### Request part parameters
 Name | Required | Description |  Example
 -----|----------|-------------|--------
 rid |Yes|rid of the user| 10008100670000220191226111423
 
-#### Request
-<div>https://mosip.io/v1/admin/packetstatusupdate?rid=10008100670000220191226111423</div>
+### Request
+```
+https://mosip.io/v1/admin/packetstatusupdate?rid=10008100670000220191226111423
+```
+### Responses
 
-#### Responses:
-##### Success Response:
-###### Status code: '200'
-###### Description: returns status of rid
-```JSON
+#### Success Response
 
+#### Description: returns status of rid
+```json
 {
     "id": null,
     "version": null,
@@ -88,12 +88,12 @@ rid |Yes|rid of the user| 10008100670000220191226111423
     "errors": null
 }
 ```
-### Response codes
-
-200 Ok
-
-##### Error Response:
+#### Response codes
 ```
+200 Ok
+```
+#### Error response
+```json
 {
   "id": "string",
   "version": "string",
@@ -109,7 +109,6 @@ rid |Yes|rid of the user| 10008100670000220191226111423
 }
 
 ```
-
 #### Failure details
 Error Code  | Error Message | Error Description
 -----|----------|-------------
@@ -118,3 +117,5 @@ ADM-PKT-002 |RID is invalid|If RID is invalid
 ADM-PKT-003 |Center does not exist|If Center ID extracted from RID does not exist
 ADM-PKT-004 |RID is miss|If RID is missing in the Input
 ADM-PKT-005 |Error occurred while fetch Packet Status|If any system error occurs while fetching Packet Status
+
+#
